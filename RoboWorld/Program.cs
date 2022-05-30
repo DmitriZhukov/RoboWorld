@@ -21,6 +21,9 @@ namespace RoboWorld
             // use IOC to create stuff
             // Create Coordinator instance here
             // and it will run the robots
+
+            var coordinator = new Coordinator();
+
             Console.WriteLine("Hello Robot World!");
         }
     }
