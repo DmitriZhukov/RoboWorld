@@ -5,6 +5,6 @@
 
     public enum Move
     {
-        Left, Right, Forward
+        Left='L', Right='R', Forward='F'
     }
 }
